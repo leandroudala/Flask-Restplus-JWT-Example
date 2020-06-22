@@ -1,1 +1,5 @@
 Tutorial available at https://www.freecodecamp.org/news/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563/
+
+Migrate and Upgrade commands
+python manage.py db migrate --message 'example message'
+python manage.py db upgrade
