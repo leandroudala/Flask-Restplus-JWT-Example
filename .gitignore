@@ -1,0 +1,5 @@
+migrations
+app/main/env
+app/main/*.db
+.vscode
+__pycache__
